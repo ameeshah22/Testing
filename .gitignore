@@ -103,3 +103,6 @@ HSE_DIFF/Debug/Core/Src/main.su
 HSE_DIFF/Debug/Core/Src/main.o
 HSE_DIFF/Debug/Core/Src/main.d
 HSE_DIFF/Debug/Core/Src/main.cyclo
+HSE_DIFF/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
+HSE_DIFF/.settings/language.settings.xml
+HSE_DIFF/.settings/stm32cubeide.project.prefs
